@@ -47,5 +47,12 @@
             "emoji": 5213015159655642983,
             "name": "Сталин."
         }
+    },
+    "1509046520": {
+        "status": "fake",
+        "custom": {
+            "emoji": null,
+            "name": null
+        }
     }
 }
